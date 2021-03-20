@@ -103,7 +103,7 @@ function get_dbh() {
     // XXX 実際は、configファイル等で外出しにする事が多い
     $user = '';
     $pass = '';
-    $dsn = 'mysql:dbname=cog;host=localhost;charset=utf8mb4';
+    $dsn = 'mysql:dbname=;host=localhost;charset=utf8mb4';
 
     // 接続オプションの設定
     $opt = array (
