@@ -101,8 +101,8 @@ function _is_csrf_token($type) {
 function get_dbh() {
     // データの設定
     // XXX 実際は、configファイル等で外出しにする事が多い
-    $user = 'root';
-    $pass = 'root';
+    $user = '';
+    $pass = '';
     $dsn = 'mysql:dbname=cog;host=localhost;charset=utf8mb4';
 
     // 接続オプションの設定
