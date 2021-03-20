@@ -1,0 +1,23 @@
+{
+  "name": "cog_sys",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cogakira",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cogakira/cog_sys.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cogakira/cog_sys/issues"
+  },
+  "homepage": "https://github.com/cogakira/cog_sys#readme",
+  "description": ""
+}
